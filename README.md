@@ -11,7 +11,7 @@ Read through the links below to help you understand how HTML tags work.
 
 Create a file named `html_challenge1.html`.
 
-In the file you are going to copy and paste the Sundial text below into your html file.
+In the file, you are going to copy and paste the Sundial text below into your html file.
 ```html
 Sundial
 
@@ -33,7 +33,7 @@ cultures. A type of sundial without gnomon is described in the old Old Testament
 (Isaiah 38:2).
 
 The mathematician and astronomer Theodosius of Bithynia (ca. 160 BC-ca. 100 BC) is said to have
-invented a universal sundial that could be used anywhere on Earth. The French astronomer Oronce Fine constructed a sundial of ivory in 1524. The Italian astronomer Giovanni Padovani published a treatise on the sundial in 1570, in which he included instructions for the manufacture and laying out of mural (vertical) and horizontal sundials. Giuseppe Biancani's Construction instrumenti ad horologia solaria discusses how to make a perfect sundial, with accompanying illustrations.
+invented a universal sundial that could be used anywhere on Earth. The French astronomer Oronce Fine constructed a sundial of ivory in 1524. The Italian astronomer Giovanni Padovani published a treatise on the sundial in 1570, in which he included instructions for the manufacture and laying out of mural (vertical) and horizontal sundials. Giuseppe Biancani's Construction instruments ad horologic solaria discuss how to make a perfect sundial, with accompanying illustrations.
 
 Installation of standard sundials
 
@@ -54,4 +54,4 @@ Your challenge will be to add HTML tags to make your file look like the one in t
 
 A web browser will display the `h1` heading very large, and the `h6` heading quite small, and all the other headings in between! But don't get into the habit of selecting an h4 heading because it displays with the size that you're after! You can always modify the size of your elements using your stylesheet (more on that later).
 
-The key is to use the headings to structure your information in a useful (and meaningful) way! For example, every page should only ever have one main heading - your h1 heading. An h2 heading should only ever be a sub-heading of your h1 heading. Similarly, an h3 heading should only ever be a sub-heading of an h2 heading etc.
+The key is to use the headings to structure your information in a useful (and meaningful) way! For example, every page should only ever have one main heading - your h1 heading. An h2 heading should only ever be a sub-heading of your h1 heading. Similarly, an h3 heading should only ever be a sub-heading of an h2 heading, etc.
